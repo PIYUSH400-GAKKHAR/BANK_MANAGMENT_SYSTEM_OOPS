@@ -19,7 +19,7 @@ def save_data(self):
 
             "transactions": account.transactions
         }
-
+ 
     with open(
         self.filename,
         "w"
