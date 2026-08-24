@@ -4,7 +4,7 @@ def transaction_history(self):
         "\n========== TRANSACTION HISTORY =========="
     )
 
-    try:
+    try: 
 
         account_no = int(
             input("Enter account number: ")
