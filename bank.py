@@ -9,3 +9,4 @@ class Bank:
         self.filename = "bank_data.json"
 
         self.load_data()
+        
