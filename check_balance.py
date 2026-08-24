@@ -25,7 +25,7 @@ def check_balance(self):
     if not account.check_pin(pin):
 
         print("Incorrect PIN.")
-        return
+        return 
 
     print("\nAccount Holder:", account.name)
 
