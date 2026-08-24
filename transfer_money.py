@@ -3,7 +3,7 @@ def transfer_money(self):
     print("\n========== TRANSFER MONEY ==========")
 
     try:
-
+ 
         sender_no = int(
             input("Enter your account number: ")
         )
