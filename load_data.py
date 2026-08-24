@@ -56,3 +56,4 @@ def load_data(self):
         print(
             "Unable to load previous bank data."
         )
+        
